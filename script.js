@@ -1,6 +1,3 @@
-//@codewithcurious.com
-
-
 // Function to handle sending a message
 function sendMessage() {
     const messageInput = document.getElementById('message-input');
